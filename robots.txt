@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ciegoh.mymonash.lol/sitemap.xml
